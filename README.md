@@ -3,13 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features
-### Categorical & Keyword Search
+### `Categorical & Keyword Search`
 User can search a product categorically or by a keyword and get valid results
 
-### Cart
+### `Cart`
 This website also provides a Cart to track your order and total price of the order.
 
-### Responsive
+### `Responsive`
 This website is built responsively using Bootstrap & @media queries
 
 
