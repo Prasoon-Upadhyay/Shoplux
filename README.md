@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+### Categorical & Keyword Search
+User can search a product categorically or by a keyword and get valid results
+
+### Cart
+This website also provides a Cart to track your order and total price of the order.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
