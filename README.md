@@ -9,6 +9,9 @@ User can search a product categorically or by a keyword and get valid results
 ### Cart
 This website also provides a Cart to track your order and total price of the order.
 
+### Responsive
+This website is built responsively using Bootstrap & @media queries
+
 
 
 ## Available Scripts
